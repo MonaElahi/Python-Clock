@@ -1,7 +1,7 @@
 # Python-Clock
 
 ## Purpose
-The purpose of this respository is to create gui digital 24hr clock of your desktop/laptop work screen.
+The purpose of this respository is to create gui digital 24hr clock for your desktop/laptop work screen.
 By using simple lines of python code it has been built. 
 
 
